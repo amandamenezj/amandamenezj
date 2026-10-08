@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="62%" valign="middle">
-      <p>Oi! Eu sou a <b>Amanda</b>, estudante de <b>front-end</b>. Gosto de transformar um layout no papel em página funcionando, e de deixar tudo com cara de projeto feito com carinho.</p>
+      <p>Oi! Eu sou a <b>Amanda</b>, estudante de <b>GTI</b>. Gosto de transformar um layout no papel em página funcionando, e de deixar tudo com cara de projeto feito com carinho, por isso amo <b>FRONT-END<b>.</p>
       <p>Além do front, estou explorando <b>SQL e dados</b> e também <b>IA</b>. Ainda estou aprendendo, e este espaço é onde vou deixando o que construo pelo caminho. 💜</p>
     </td>
     <td width="38%" align="center" valign="middle">
