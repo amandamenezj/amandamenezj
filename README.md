@@ -29,7 +29,7 @@
       <p>Além do front, estou explorando <b>SQL e dados</b> e também <b>IA</b>. Ainda estou aprendendo, e este espaço é onde vou deixando o que construo pelo caminho. 💜</p>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="https://photos.app.goo.gl/3GxXQ5W24FrbLvWL6" alt="GIF" width="260" />
+      <img src="https://i.pinimg.com/originals/d2/e3/f3/d2e3f3be4087072eb36f6678c83db41a.gif" alt="GIF" width="260" />
     </td>
   </tr>
 </table>
