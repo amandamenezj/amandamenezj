@@ -8,7 +8,9 @@
 
 <br><br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=amandamenezj.amandamenezj&left_text=VISITAS&left_color=8B5CF6&right_color=EC4899" alt="Visitas" />
+<a href="https://hits.sh/github.com/amandamenezj/">
+  <img src="https://hits.sh/github.com/amandamenezj.svg?style=for-the-badge&label=VISITAS&color=8B5CF6&labelColor=555555" alt="Visitas" />
+</a>
 <img src="https://img.shields.io/github/followers/amandamenezj?style=for-the-badge&color=EC4899&logo=github&logoColor=white&label=SEGUIDORES" alt="Seguidores" />
 
 </div>
@@ -25,7 +27,7 @@
 <table>
   <tr>
     <td width="62%" valign="middle">
-      <p>Oi! Eu sou a <b>Amanda</b>, estudante de <b>GTI</b>. Gosto de transformar um layout no papel em página funcionando, e de deixar tudo com cara de projeto feito com carinho, por isso amo <b>FRONT-END<b>.</p>
+      <p>Oi! Eu sou a <b>Amanda</b>, estudante de <b>GTI</b>. Gosto de transformar um layout no papel em página funcionando, e de deixar tudo com cara de projeto feito com carinho, por isso amo <b>FRONT-END</b>.</p>
       <p>Além do front, estou explorando <b>SQL e dados</b> e também <b>IA</b>. Ainda estou aprendendo, e este espaço é onde vou deixando o que construo pelo caminho. 💜</p>
     </td>
     <td width="38%" align="center" valign="middle">
