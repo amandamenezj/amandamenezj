@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=amandamenezj&label=VISITAS&color=8B5CF6&style=for-the-badge" alt="Visitas" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=amandamenezj.amandamenezj&left_text=VISITAS&left_color=8B5CF6&right_color=EC4899" alt="Visitas" />
 <img src="https://img.shields.io/github/followers/amandamenezj?style=for-the-badge&color=EC4899&logo=github&logoColor=white&label=SEGUIDORES" alt="Seguidores" />
 
 </div>
