@@ -42,7 +42,6 @@ const amanda = {
   foco: "front-end",
   stack: ["HTML", "CSS", "JavaScript", "SQL"],
   explorando: ["dados", "IA"],
-  paleta: ["roxo 💜", "rosa 🌸", "azul 💙"],
   status: "estudando e construindo, um projeto por vez"
 };
 ```
